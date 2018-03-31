@@ -11,6 +11,7 @@ namespace HelloWorld
             Console.WriteLine("Third change");
             Console.WriteLine("Fourth change");
             Console.WriteLine("Fith change");
+            Console.WriteLine("SIXTH change made online. Can I see it in VS??");
             Console.ReadLine();
         }
     }
