@@ -9,6 +9,7 @@ namespace HelloWorld
             Console.WriteLine("Hello Wolrd. Original");
             Console.WriteLine("Second change");
             Console.WriteLine("Third change");
+            Console.WriteLine("Fourth change");
             Console.ReadLine();
         }
     }
