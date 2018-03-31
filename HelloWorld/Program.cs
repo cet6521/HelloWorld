@@ -14,6 +14,7 @@ namespace HelloWorld
             Console.WriteLine("SIXTH change made online. Can I see it in VS??");//yes after I clicked sync and pull
             Console.WriteLine("Seventh change");
             Console.WriteLine("Eighth change");
+            Console.WriteLine("Nineth change");
             Console.ReadLine();
         }
     }
